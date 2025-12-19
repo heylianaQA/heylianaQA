@@ -18,3 +18,9 @@ const ana = {
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heylianaQA&stats_format=bytes)
 
 💼 Open to new opportunities and challenges in Quality Assurance!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heylianaQA/heylianaQA/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heylianaQA/heylianaQA/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/heylianaQA/heylianaQA/output/pacman-contribution-graph.svg">
+</picture>
