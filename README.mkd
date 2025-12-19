@@ -1,4 +1,4 @@
-![herocard](/imagens/github%201.0.png)
+![herocard](/imagem/github_hero.png)
 
 Hey! I'm a QA Analyst in career transition, bringing years of experience in problem-solving under pressure, meticulous attention to detail, and effective communication with all kinds of people. I started studying on my own, and today I transform this unique background into tests that really make a difference.
 I work with end-to-end automation, APIs, mobile, and performance testing — basically, if it can be tested, I test it. I love finding bugs and exploring different paths to solve problems. My approach? Curious, creative, and always with a playlist running in the background.
@@ -8,7 +8,8 @@ When I'm not hunting bugs, you'll find me playing cozy games and solving puzzles
 const ana = {
     code: ["JavaScript"],
     testing: ["E2E", "API", "Mobile", "Performance", "BDD"],
-    tools: ["Cypress", "Appium", "Postman", "JMeter", "Jenkins", "Docker", "MongoDB", "Rest API", "Jmeter"],
+    tools: ["Cypress", "Appium", "Postman", "JMeter", "Jenkins", 
+            "Docker", "MongoDB", "Rest API", "Jmeter"],
     currentFocus: "Test automation and CI/CD",
     challenge: "Transforming manual processes into automated pipelines"
 }
