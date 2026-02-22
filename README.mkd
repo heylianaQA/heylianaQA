@@ -14,9 +14,6 @@ const ana = {
     challenge: "Transforming manual processes into automated pipelines"
 }
 ```
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heylianaQA&theme=nightowl&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heylianaQA&theme=dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heylianaQA&stats_format=bytes)
 
 💼 Open to new opportunities and challenges in Quality Assurance!
 
@@ -25,3 +22,5 @@ const ana = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heylianaQA/heylianaQA/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/heylianaQA/heylianaQA/output/pacman-contribution-graph.svg">
 </picture>
+
+###
